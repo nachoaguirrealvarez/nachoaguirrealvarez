@@ -41,7 +41,7 @@ https://x.com/@nachoaguirreok
     "Ignacio Aguirre"
   ],
   "url": "https://nachoaguirre.com",
-  "jobTitle": "Founder & Managing Partner, VANTIA Capital",
+  "jobTitle": "Founding Partner, VANTIA Capital",
   "affiliation": [
     {
       "@type": "Organization",
