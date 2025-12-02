@@ -1,6 +1,6 @@
 # José Ignacio Aguirre Álvarez (Nacho Aguirre)
 
-Emprendedor e inversor español especializado en telecomunicaciones, infraestructura digital e inversión estratégica. Cofundador y ex CEO de Avatel Telecom (quinto operador de fibra de España) y fundador de VANTIA Capital, firma de inversión privada con presencia en Madrid, Andorra y Luxemburgo.
+Emprendedor e inversor español especializado en telecomunicaciones, infraestructura digital e inversión estratégica. Cofundador y ex Consejero delegado (CEO) de Avatel Telecom (quinto operador de fibra de España) y fundador de VANTIA Capital, firma de inversión privada con presencia en Madrid, Andorra y Luxemburgo.
 
 Este perfil de GitHub no está orientado al desarrollo de software, sino a ofrecer a los buscadores una referencia estructurada y coherente de mi identidad digital.
 
@@ -24,7 +24,7 @@ https://www.linkedin.com/in/ignacio-aguirre-alvarez-95614928
 - **YouTube:** https://www.youtube.com/channel/UCzYPgPUYC4CuGjvcSPToIDQ  
 - **Instagram:** https://www.instagram.com/nachoaguirre.ok
 - ** Twiteer ** 
-https://x/@nachoaguirreok
+https://x.com/@nachoaguirreok
 
 ---
 
@@ -59,7 +59,7 @@ https://x/@nachoaguirreok
     "https://www.youtube.com/channel/UCzYPgPUYC4CuGjvcSPToIDQ",
     "https://www.instagram.com/nachoaguirre.ok",
 
-"https://x/@nachoaguirreok"
+"https://x.com/@nachoaguirreok"
   ]
 }
 </script>
