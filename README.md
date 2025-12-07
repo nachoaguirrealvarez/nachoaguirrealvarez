@@ -82,5 +82,5 @@ JSON-LD (Person) para motores de búsqueda
 
 © 2025 Nacho Aguirre · Public technical profile
 
-
+<meta name="google-site-verification" content="4GogpJ9TxbNnXdH1InyDE08NF7jhfVCFiIsFpbXLPxk" />
 ---
