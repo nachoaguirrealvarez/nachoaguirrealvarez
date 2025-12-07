@@ -39,11 +39,7 @@ GitHub: https://github.com/nachoaguirrealvarez
 
 GitHub Pages: https://nachoaguirrealvarez.github.io/
 
-
-
----
-
-🔎 JSON-LD (Person) para motores de búsqueda
+JSON-LD (Person) para motores de búsqueda
 
 <script type="application/ld+json">
 {
