@@ -41,6 +41,7 @@ GitHub Pages: https://nachoaguirrealvarez.github.io/
 
 JSON-LD (Person) para motores de búsqueda
 
+```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,7 +76,7 @@ JSON-LD (Person) para motores de búsqueda
   ]
 }
 </script>
-
+```
 
 ---
 
