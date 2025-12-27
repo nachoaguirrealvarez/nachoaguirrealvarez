@@ -27,6 +27,8 @@ Wikidata (ID de entidad): https://www.wikidata.org/wiki/Q136825412
 
 LinkedIn: https://www.linkedin.com/in/ignacio-aguirre-alvarez-95614928
 
+Crunchbase: https://www.crunchbase.com/person/jos%C3%A9-ignacio-aguirre-alvarez
+
 YouTube: https://www.youtube.com/channel/UCzYPgPUYc4CuJgvcSPToIDQ
 
 Instagram: https://www.instagram.com/nachoaguirre.ok
@@ -67,6 +69,7 @@ JSON-LD (Person) para motores de búsqueda
     "https://nachoaguirre.com/",
     "https://www.wikidata.org/wiki/Q136825412",
     "https://www.linkedin.com/in/ignacio-aguirre-alvarez-95614928",
+    "https://www.crunchbase.com/person/jos%C3%A9-ignacio-aguirre-alvarez",
     "https://x.com/nachoaguirreok",
     "https://www.instagram.com/nachoaguirre.ok",
     "https://www.youtube.com/channel/UCzYPgPUYc4CuJgvcSPToIDQ",
