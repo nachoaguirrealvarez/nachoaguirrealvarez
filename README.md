@@ -23,7 +23,7 @@ Otras formas habituales en prensa: Ignacio Aguirre
 
 Web oficial: https://nachoaguirre.com
 
-Web Vantia BIO: https://vantiacapital.com/nacho-aguirre/
+Web VANTIA Capital (BIO): https://vantiacapital.com/nacho-aguirre/
 
 Wikidata (ID de entidad): https://www.wikidata.org/wiki/Q136825412
 
