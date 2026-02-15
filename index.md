@@ -9,6 +9,7 @@ Su objetivo es ayudar a Google y a otros motores de búsqueda a consolidar corre
 ## 🔗 Enlaces oficiales
 
 - **Web oficial:** https://nachoaguirre.com
+- **Web Vantia BIO:** https://vantiacapital.com/nacho-aguirre/
 - **Wikidata (Q136825412):** https://www.wikidata.org/wiki/Q136825412
 - **LinkedIn:** https://www.linkedin.com/in/ignacio-aguirre-alvarez-95614928
 - **Crunchbase:** https://www.crunchbase.com/person/jos%C3%A9-ignacio-aguirre-alvarez
