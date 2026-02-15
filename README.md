@@ -68,7 +68,7 @@ JSON-LD (Person) para motores de búsqueda
     "Ignacio Aguirre Álvarez"
   ],
   "url": "https://nachoaguirre.com/",
-  "image": "https://nachoaguirre.com/wp-content/uploads/2024/01/nacho-aguirre.jpg",
+  "image": "https://nachoaguirre.com/nacho-aguirre.jpg",
   "jobTitle": "Founding Partner",
   "worksFor": {
     "@type": "Organization",
